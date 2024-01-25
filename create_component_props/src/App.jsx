@@ -4,6 +4,10 @@ import Family from './components/Family'
 import Counter from './components/Counter'
 
 import './App.css'
+<<<<<<< HEAD
+=======
+//import Toggle from './components/Toggle'
+>>>>>>> 4ea43f5 (Continuing React Challenges course)
 
 function App() {
   const members = [
